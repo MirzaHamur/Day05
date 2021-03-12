@@ -6,6 +6,6 @@ function main() {
     // Only change code above this line
     return myLink;
 
-};
+}
 console.log(main());
 module.exports = main;
